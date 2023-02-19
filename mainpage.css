@@ -1,0 +1,106 @@
+body{
+    background-color: black;
+    margin: 0;
+    color:Azure;
+    font-family: 'Poppins', sans-serif;
+}
+.topnav {
+    overflow: hidden;
+    background-color:black;
+    }
+
+    .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 14px;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    border: 5px solid white;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 15px currentcolor; */
+    }
+
+    .topnav a:hover {
+    /* background-color: rgb(106, 39, 207); */
+    background-image: linear-gradient( rgb(106, 39, 207), rgb(24, 148, 185));
+    color: white;
+    }
+    .aq
+    {
+        position: absolute;
+        left: 90px;
+        top: 10px;
+    }
+    .as1
+    {
+        position: absolute;
+        left: 1040px;
+        top: 10px;
+    }
+    .as2
+    {
+        position: absolute;
+        left: 1225px;
+        top: 10px;
+    }
+    .as3
+    {
+        position: absolute;
+        left: 1375px;
+        top: 10px;
+    }
+ /* Education Container - START */
+.educationContainer{
+    border:4px solid #fff;
+    background-color:black;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+}
+
+.educationContainer-h1 {
+    text-align: center;
+    font-size: 4rem;
+    padding-top: 5px;
+}
+
+.edu-content{
+    /* background-color: rgb(24, 148, 185); */
+    background-image: linear-gradient( rgb(106, 39, 207), rgb(24, 148, 185));
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    color:azure;
+}
+
+.education_link{
+    text-decoration: none;
+    color:#f2f2f2;
+}
+
+.education_link:hover{
+    text-decoration: underline;
+}
+
+.education_year{
+    margin-top: 0;
+    padding-top: 0;
+    padding-left: 80%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.education_subtitle{
+    margin-top: 0;
+    padding-top: 0;
+    padding-left: 5px;
+}
+
+.education_list{
+    font-size: 1.2rem;
+    color: white;
+    padding-bottom: 1rem;
+}
