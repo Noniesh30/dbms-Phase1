@@ -185,7 +185,7 @@ ul {
     text-align: center;
     font-size: 4rem;
     background-color: #0c0101;
-    color:black;
+    color:white;
 
 }
 
@@ -319,43 +319,6 @@ ul {
     transform: translate(-50%) rotate(45deg);
     transition: all .3s cubic-bezier(0.68,-0.55,0.265.1.55);
 }
-
-.popup-logos .instagram:hover,
-.popup-logos .instagram:hover .icon-name,
-.popup-logos .instagram:hover .icon-name::before {
-    background-color: #e1306c;
-    color: var(--white);
-}
-
-.popup-logos .mail:hover,
-.popup-logos .mail:hover .icon-name,
-.popup-logos .mail:hover .icon-name::before {
-    background-color: skyblue;
-    color: var(--white);
-}
-
-.popup-logos .facebook:hover,
-.popup-logos .facebook:hover .icon-name,
-.popup-logos .facebook:hover .icon-name::before {
-    background-color: #0088cc;
-    color: var(--white);
-}
-
-.popup-logos .github:hover,
-.popup-logos .github:hover .icon-name,
-.popup-logos .github:hover .icon-name::before {
-    background-color: black;
-    color: var(--white);
-}
-
-
-.popup-logos .logo:hover .icon-name {
-    top: -45px;
-    opacity: 1;
-    visibility: visible;
-    pointer-events: auto;
-}
-
 .footer-nav {
     background-color: #6a6978;
     padding: 25px;
