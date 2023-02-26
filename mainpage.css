@@ -93,7 +93,7 @@ body{
     position:absolute;
     left:45px;
     top:20px;
-      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
  }
  .b1 {
@@ -130,7 +130,7 @@ body{
     position:absolute;
     left:45px;
     top:20px;
-      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
  }
  .a22
@@ -166,7 +166,7 @@ body{
     position:absolute;
     left:45px;
     top:20px;
-      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
  }
  .a32
